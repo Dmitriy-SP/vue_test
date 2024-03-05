@@ -43,9 +43,9 @@ export default {
   width: 900px;
   height: 500px;
   border-radius: 50px;
-  background: #1f0f24;
+  background: #1F1F1F;
   text-align: center;
-  color: #fff;
+  color: #FD850A;
 }
 
 .wrapper h1 {
@@ -61,7 +61,7 @@ export default {
   background: transparent;
   border: 0;
   border-bottom: 2px solid #110813;
-  color: #fcfcfc;
+  color: #FD850A;
   font-size: 14px;
   padding: 5px 8px;
   outline: none;
@@ -72,10 +72,10 @@ export default {
 }
 
 .wrapper button {
-  background: #e3bc4d;
-  color: #fff;
+  background: #5b2915;
+  color: #F7EFED;
   border-radius: 10px;
-  border: 2px solid #b99935;
+  border: 2px solid #DB6B3D;
   padding: 10px 15px;
   margin-left: 20px;
   cursor: pointer;
@@ -87,7 +87,7 @@ export default {
 }
 
 .wrapper button:disabled {
-  background: #746027;
+  background: #434343;
   cursor: not-allowed;
 }
 </style>
